@@ -73,6 +73,10 @@
             "latitude": 42.6073975,
             "longitude": 25.4856617
           },
+          "Canada": {
+            "latitude": 61.0666922,
+            "longitude": -107.991707
+          },
           "Chelyabinsk": {
             "latitude": 55.107612,
             "longitude": 61.414546
@@ -312,6 +316,10 @@
           "chongqing": {
             "latitude": 29.5961717,
             "longitude": 106.5335469
+          },
+          "vietnam": {
+            "latitude": 16.16667,
+            "longitude": 107.83333
           }
         },
         "key": "location"
@@ -327,7 +335,7 @@
       "map"
     ],
     "title": "Avian Influenza Whole Genome Analysis- 1st January 2020 to 18th October 2021. (Note geographic coordinates are not exact",
-    "updated": "2022-01-31"
+    "updated": "2022-02-01"
   },
   "tree": {
     "branch_attrs": {},
@@ -349,8 +357,14 @@
                     "value": "2021-05-31"
                   },
                   "div": 0.14414809092986727,
+                  "location": {
+                    "value": "Canada"
+                  },
                   "num_date": {
                     "value": 2021.4123287671232
+                  },
+                  "pathotype": {
+                    "value": "LPAI"
                   },
                   "period": {
                     "value": "Sept21-Mar22"
@@ -380,8 +394,14 @@
                         "value": "2021-11-01"
                       },
                       "div": 0.1490168209298673,
+                      "location": {
+                        "value": "Canada"
+                      },
                       "num_date": {
                         "value": 2021.8342465753424
+                      },
+                      "pathotype": {
+                        "value": "HPAI"
                       },
                       "period": {
                         "value": "Sept21-Mar22"
@@ -448,8 +468,14 @@
                     "value": "2021-11-07"
                   },
                   "div": 0.12387937092986728,
+                  "location": {
+                    "value": "Canada"
+                  },
                   "num_date": {
                     "value": 2021.8506849315067
+                  },
+                  "pathotype": {
+                    "value": "HPAI"
                   },
                   "period": {
                     "value": "Sept21-Mar22"
@@ -479,8 +505,14 @@
                         "value": "2021-12-03"
                       },
                       "div": 0.12168207092986728,
+                      "location": {
+                        "value": "Canada"
+                      },
                       "num_date": {
                         "value": 2021.9219178082192
+                      },
+                      "pathotype": {
+                        "value": "HPAI"
                       },
                       "period": {
                         "value": "Sept21-Mar22"
@@ -507,8 +539,14 @@
                         "value": "2021-11-22"
                       },
                       "div": 0.12168176092986728,
+                      "location": {
+                        "value": "Canada"
+                      },
                       "num_date": {
                         "value": 2021.8917808219178
+                      },
+                      "pathotype": {
+                        "value": "HPAI"
                       },
                       "period": {
                         "value": "Sept21-Mar22"
@@ -3784,6 +3822,9 @@
                         "value": "2018-10-15"
                       },
                       "div": 0.12374607907013271,
+                      "location": {
+                        "value": "vietnam"
+                      },
                       "num_date": {
                         "value": 2018.7876712328766
                       },
@@ -5624,8 +5665,14 @@
                                                 "value": "2021-12-01"
                                               },
                                               "div": 0.12430641907013272,
+                                              "location": {
+                                                "value": "Italy"
+                                              },
                                               "num_date": {
                                                 "value": 2021.9164383561645
+                                              },
+                                              "pathotype": {
+                                                "value": "HPAI"
                                               },
                                               "period": {
                                                 "value": "Sept21-Mar22"
@@ -5667,8 +5714,14 @@
                                                 "value": "2021-11-11"
                                               },
                                               "div": 0.12254449907013272,
+                                              "location": {
+                                                "value": "Romania"
+                                              },
                                               "num_date": {
                                                 "value": 2021.8616438356164
+                                              },
+                                              "pathotype": {
+                                                "value": "HPAI"
                                               },
                                               "period": {
                                                 "value": "Sept21-Mar22"
@@ -5940,8 +5993,14 @@
                                                 "value": "2021-12-15"
                                               },
                                               "div": 0.1360465190701327,
+                                              "location": {
+                                                "value": "Italy"
+                                              },
                                               "num_date": {
                                                 "value": 2021.954794520548
+                                              },
+                                              "pathotype": {
+                                                "value": "HPAI"
                                               },
                                               "period": {
                                                 "value": "Sept21-Mar22"
@@ -5986,8 +6045,14 @@
                                                     "value": "2021-12-23"
                                                   },
                                                   "div": 0.1320826590701327,
+                                                  "location": {
+                                                    "value": "Netherlands"
+                                                  },
                                                   "num_date": {
                                                     "value": 2021.9767123287672
+                                                  },
+                                                  "pathotype": {
+                                                    "value": "HPAI"
                                                   },
                                                   "period": {
                                                     "value": "Sept21-Mar22"
@@ -6007,6 +6072,9 @@
                                                 "branch_attrs": {},
                                                 "name": "GISAID_A_mallard_Italy_21VIR6957-6_2021_2021-08-20",
                                                 "node_attrs": {
+                                                  "clade": {
+                                                    "value": "2.3.4.4b"
+                                                  },
                                                   "date": {
                                                     "value": "2021-08-20"
                                                   },
@@ -6146,8 +6214,14 @@
                                                         "value": "2022-01-11"
                                                       },
                                                       "div": 0.1556845790701327,
+                                                      "location": {
+                                                        "value": "Netherlands"
+                                                      },
                                                       "num_date": {
                                                         "value": 2022.0287671232877
+                                                      },
+                                                      "pathotype": {
+                                                        "value": "HPAI"
                                                       },
                                                       "period": {
                                                         "value": "Sept21-Mar22"
@@ -6655,8 +6729,14 @@
                                                                                     "value": "2021-12-23"
                                                                                   },
                                                                                   "div": 0.1465196190701327,
+                                                                                  "location": {
+                                                                                    "value": "Canada"
+                                                                                  },
                                                                                   "num_date": {
                                                                                     "value": 2021.9767123287672
+                                                                                  },
+                                                                                  "pathotype": {
+                                                                                    "value": "HPAI"
                                                                                   },
                                                                                   "period": {
                                                                                     "value": "Sept21-Mar22"
@@ -7338,8 +7418,14 @@
                                                                                         "value": "2022-01-14"
                                                                                       },
                                                                                       "div": 0.15222895907013267,
+                                                                                      "location": {
+                                                                                        "value": "Netherlands"
+                                                                                      },
                                                                                       "num_date": {
                                                                                         "value": 2022.0369863013698
+                                                                                      },
+                                                                                      "pathotype": {
+                                                                                        "value": "HPAI"
                                                                                       },
                                                                                       "period": {
                                                                                         "value": "Sept21-Mar22"
@@ -7504,8 +7590,14 @@
                                                                                     "value": "2021-12-29"
                                                                                   },
                                                                                   "div": 0.14767778907013268,
+                                                                                  "location": {
+                                                                                    "value": "Netherlands"
+                                                                                  },
                                                                                   "num_date": {
                                                                                     "value": 2021.9931506849316
+                                                                                  },
+                                                                                  "pathotype": {
+                                                                                    "value": "HPAI"
                                                                                   },
                                                                                   "period": {
                                                                                     "value": "Sept21-Mar22"
@@ -7975,8 +8067,14 @@
                                                                                             "value": "2021-12-13"
                                                                                           },
                                                                                           "div": 0.14915614907013267,
+                                                                                          "location": {
+                                                                                            "value": "Italy"
+                                                                                          },
                                                                                           "num_date": {
                                                                                             "value": 2021.9493150684932
+                                                                                          },
+                                                                                          "pathotype": {
+                                                                                            "value": "HPAI"
                                                                                           },
                                                                                           "period": {
                                                                                             "value": "Sept21-Mar22"
@@ -8123,8 +8221,14 @@
                                                                                                 "value": "2021-11-29"
                                                                                               },
                                                                                               "div": 0.15003419907013268,
+                                                                                              "location": {
+                                                                                                "value": "Italy"
+                                                                                              },
                                                                                               "num_date": {
                                                                                                 "value": 2021.9109589041095
+                                                                                              },
+                                                                                              "pathotype": {
+                                                                                                "value": "HPAI"
                                                                                               },
                                                                                               "period": {
                                                                                                 "value": "Sept21-Mar22"
@@ -8859,8 +8963,14 @@
                                                                                                     "value": "2021-11-21"
                                                                                                   },
                                                                                                   "div": 0.1504676490701327,
+                                                                                                  "location": {
+                                                                                                    "value": "Belgium"
+                                                                                                  },
                                                                                                   "num_date": {
                                                                                                     "value": 2021.8890410958904
+                                                                                                  },
+                                                                                                  "pathotype": {
+                                                                                                    "value": "HPAI"
                                                                                                   },
                                                                                                   "period": {
                                                                                                     "value": "Sept21-Mar22"
@@ -8939,8 +9049,14 @@
                                                                                             "value": "2021-12-15"
                                                                                           },
                                                                                           "div": 0.1487133690701327,
+                                                                                          "location": {
+                                                                                            "value": "Italy"
+                                                                                          },
                                                                                           "num_date": {
                                                                                             "value": 2021.954794520548
+                                                                                          },
+                                                                                          "pathotype": {
+                                                                                            "value": "HPAI"
                                                                                           },
                                                                                           "period": {
                                                                                             "value": "Sept21-Mar22"
@@ -8983,8 +9099,14 @@
                                                                                                 "value": "2022-01-14"
                                                                                               },
                                                                                               "div": 0.14827467907013267,
+                                                                                              "location": {
+                                                                                                "value": "Netherlands"
+                                                                                              },
                                                                                               "num_date": {
                                                                                                 "value": 2022.0369863013698
+                                                                                              },
+                                                                                              "pathotype": {
+                                                                                                "value": "HPAI"
                                                                                               },
                                                                                               "period": {
                                                                                                 "value": "Sept21-Mar22"
@@ -9078,6 +9200,9 @@
                                                                                               "div": 0.14871269907013268,
                                                                                               "num_date": {
                                                                                                 "value": 2022.0150684931507
+                                                                                              },
+                                                                                              "pathotype": {
+                                                                                                "value": "HPAI"
                                                                                               },
                                                                                               "period": {
                                                                                                 "value": "Sept21-Mar22"
@@ -9375,8 +9500,14 @@
                                                 "value": "2021-06-27"
                                               },
                                               "div": 0.1312515890701327,
+                                              "location": {
+                                                "value": "Belgium"
+                                              },
                                               "num_date": {
                                                 "value": 2021.486301369863
+                                              },
+                                              "pathotype": {
+                                                "value": "HPAI"
                                               },
                                               "period": {
                                                 "value": "Sept21-Mar22"
@@ -9425,7 +9556,7 @@
                                                     "value": "GISAID_A_Anas_platyrhynchos_Belgium_10413_0003_2020_2020-10-04"
                                                   },
                                                   "subtype": {
-                                                    "value": "H6N1"
+                                                    "value": "H5N1"
                                                   }
                                                 }
                                               },
@@ -14287,8 +14418,14 @@
                                                                 "value": "2021-12-19"
                                                               },
                                                               "div": 0.1423328890701327,
+                                                              "location": {
+                                                                "value": "Netherlands"
+                                                              },
                                                               "num_date": {
                                                                 "value": 2021.9657534246576
+                                                              },
+                                                              "pathotype": {
+                                                                "value": "HPAI"
                                                               },
                                                               "period": {
                                                                 "value": "Sept21-Mar22"
@@ -14314,6 +14451,9 @@
                                                                     "branch_attrs": {},
                                                                     "name": "GISAID_A_duck_Italy_21VIR8024-1_2021_2021-09-23",
                                                                     "node_attrs": {
+                                                                      "clade": {
+                                                                        "value": "2.3.4.4b"
+                                                                      },
                                                                       "date": {
                                                                         "value": "2021-09-23"
                                                                       },
@@ -14345,6 +14485,9 @@
                                                                     "branch_attrs": {},
                                                                     "name": "GISAID_A_duck_Italy_21VIR8024-3_2021_2021-09-23",
                                                                     "node_attrs": {
+                                                                      "clade": {
+                                                                        "value": "2.3.4.4b"
+                                                                      },
                                                                       "date": {
                                                                         "value": "2021-09-23"
                                                                       },
@@ -14484,8 +14627,14 @@
                                                                             "value": "2021-11-26"
                                                                           },
                                                                           "div": 0.14007879907013268,
+                                                                          "location": {
+                                                                            "value": "Romania"
+                                                                          },
                                                                           "num_date": {
                                                                             "value": 2021.9027397260274
+                                                                          },
+                                                                          "pathotype": {
+                                                                            "value": "HPAI"
                                                                           },
                                                                           "period": {
                                                                             "value": "Sept21-Mar22"
@@ -14515,8 +14664,14 @@
                                                                                 "value": "2022-01-11"
                                                                               },
                                                                               "div": 0.1405182290701327,
+                                                                              "location": {
+                                                                                "value": "Netherlands"
+                                                                              },
                                                                               "num_date": {
                                                                                 "value": 2022.0287671232877
+                                                                              },
+                                                                              "pathotype": {
+                                                                                "value": "HPAI"
                                                                               },
                                                                               "period": {
                                                                                 "value": "Sept21-Mar22"
@@ -14703,8 +14858,14 @@
                                                                                 "value": "2021-12-09"
                                                                               },
                                                                               "div": 0.1405188590701327,
+                                                                              "location": {
+                                                                                "value": "Italy"
+                                                                              },
                                                                               "num_date": {
                                                                                 "value": 2021.9383561643835
+                                                                              },
+                                                                              "pathotype": {
+                                                                                "value": "HPAI"
                                                                               },
                                                                               "period": {
                                                                                 "value": "Sept21-Mar22"
@@ -17789,7 +17950,7 @@
                                                                                                         "value": "GISAID_A_chicken_Kagoshima_B3T_2021_2021-11-14"
                                                                                                       },
                                                                                                       "subtype": {
-                                                                                                        "value": "H5N1"
+                                                                                                        "value": "H5N8"
                                                                                                       }
                                                                                                     }
                                                                                                   }
@@ -23474,8 +23635,14 @@
                                                                                                         "value": "2021-08-31"
                                                                                                       },
                                                                                                       "div": 0.1538413190701327,
+                                                                                                      "location": {
+                                                                                                        "value": "Belgium"
+                                                                                                      },
                                                                                                       "num_date": {
                                                                                                         "value": 2021.664383561644
+                                                                                                      },
+                                                                                                      "pathotype": {
+                                                                                                        "value": "HPAI"
                                                                                                       },
                                                                                                       "period": {
                                                                                                         "value": "Sept21-Mar22"
@@ -23487,7 +23654,7 @@
                                                                                                         "value": "GISAID_A/Gallus_gallus/Belgium/11372_0001/2021_2021-08-31_"
                                                                                                       },
                                                                                                       "subtype": {
-                                                                                                        "value": "H5N1"
+                                                                                                        "value": "H5N8"
                                                                                                       }
                                                                                                     }
                                                                                                   },
