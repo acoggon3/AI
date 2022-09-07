@@ -3,7 +3,7 @@ title: OFFLU VCM Package September 2022 H5Nx spread and diversity
 authors: "Amelia Coggon"
 affiliations: "OFFLU"
 date: "September 2022"
-dataset: "http://localhost:4000/AI/H5-HA"
+dataset: "https://nextstrain.org/community/acoggon3/AI@main/H5-HA?m=div"
 abstract: "This narrative will showcase the current diversity of Avian influenza H5Nx viruses using sequences kindly shared by OFFLU and downloaded from GISAID (1st january 2022 - 1st september 2022. Only sequences within the reporting period of 1st February 2022 - 1st September 2022 are coloured by region and shown on the map."
 ---
 
