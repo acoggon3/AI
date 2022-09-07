@@ -33,3 +33,8 @@ This page shows us how phenotype relates to genotype and HI titres for selected 
 Here we have coloured the tree according to a single mutation (residue 22 in
 the SH gene) where there are two variants present in this dataset -- yellow tips
 have a Methionine (`M`) at this position, while aqua nodes indicate Isoleucine (`I`).
+
+# [Conclusion](https://nextstrain.org/mumps/na?c=num_date&p=grid&l=unrooted)
+
+
+...
