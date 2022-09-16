@@ -27,11 +27,11 @@ Avian H5 2.3.4.4b global summary maximum likelihood phylogenetic tree. Analyses 
 
 Avian H5 2.3.4.4b global summary maximum likelihood phylogenetic tree. Analyses were conducted with reference sequences, data downloaded from GISAID (1st January 2022 to 1st September 2022) and shared by the OFFLU network. Strains which have been tested by HI assays at OFFLU laboratories are highlighted. Amino acid changes within the HA1 were annotated on the nodes.
 
-# [HI data](https://nextstrain.org/community/acoggon3/AI@main/H5-HA?branchLabel=aa&c=CVV/HI&d=tree&f_CVV/HI=16fold,2fold,4fold,8fold,CVV&m=div&p=full)
+# [HI data](https://nextstrain.org/community/acoggon3/AI@main/H5-HA?branchLabel=aa&c=CVV/HI&d=tree&f_CVV/HI=16fold,2fold,4fold,32fold,8fold,CVV&m=div&p=full)
 
 Avian H5 2.3.4.4b global summary maximum likelihood phylogenetic tree. Analyses were conducted with reference sequences, data downloaded from GISAID (1st January 2022 to 1st September 2022) and shared by the OFFLU network. Sequences HI’d by OFFLU collaborating laboratories are highlighted. Amino acid changes in the HA1 are annotated on the tree. 
 
 
 # [Geographical distribution](https://nextstrain.org/community/acoggon3/AI@main/H5-HA?c=country&p=full)
 
-Here we see the geographical distribution relating to amino acid changes which are linked to 8-fold decrease in HI titer against the CVV A/Astrakhan/3212/2020
+Here we see the geographical distribution relating to amino acid changes 
