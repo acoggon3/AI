@@ -16,11 +16,11 @@ This map shows the location of influenza A H9N2 sequences both downloaded from G
 
 Here we see the regional distribution within the phylogeny of sequences collected within the reporting period.
 
-# [Phylogenies] (https://nextstrain.org/community/acoggon3/AI@main/H9-HA?c=clade)
+# [Phylogenies](https://nextstrain.org/community/acoggon3/AI@main/H9-HA?c=clade)
 
 Submitted sequences and sequences downloaded from GISAID annotated by clade
 
-# [Phylogenies] (https://nextstrain.org/community/acoggon3/AI@main/H9-HA?branchLabel=aa)
+# [Phylogenies](https://nextstrain.org/community/acoggon3/AI@main/H9-HA?branchLabel=aa)
 
 Phylogeny of the G1 viruses with amino acid changes annotated
 
